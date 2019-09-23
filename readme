@@ -11,12 +11,20 @@ Sure, also do coding.
 
 Fetch test
 
-<<<<<<< HEAD
 
+<<<<<<< HEAD
 Pull = Fetch + merge.
+=======
+
+
+>>>>>>> 4d05af30fe31381d28969fdddfff272796c05297
 
 Fetch is download the current content from gitServer.
 Merge is update the Project content of my local computer.
 
+<<<<<<< HEAD
 
 Try collision again, and I add the mike picture to the git repository.
+=======
+Pull = Fetch + merge.
+>>>>>>> 4d05af30fe31381d28969fdddfff272796c05297
