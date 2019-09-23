@@ -14,7 +14,9 @@ Fetch test
 <<<<<<< HEAD
 
 Pull = Fetch + merge.
-=======
+
 Fetch is download the current content from gitServer.
 Merge is update the Project content of my local computer.
->>>>>>> 467d62359452484f4ec5f0964a65a5adf3a22a20
+
+
+Try collision again, and I add the mike picture to the git repository.
